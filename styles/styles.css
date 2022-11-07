@@ -973,5 +973,8 @@ button {
     font-size: 4rem;
   }
 }
+.contact-icon .fa{
+  font-family: "Font Awesome 5 Brands";
+}
 
 /*# sourceMappingURL=styles.css.map */
